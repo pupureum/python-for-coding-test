@@ -3,7 +3,6 @@
     Author : 이푸름
     Description: 이것이 코딩 테스트다 선택 정렬 예제
  */
-
 public class Main{
     public static void main(String[] args) {
         int n = 10;
